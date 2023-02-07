@@ -1,0 +1,61 @@
+.leftimage {
+
+    height: 100VH;
+    padding: 1px;
+}
+
+.leftbackgroundimage {
+
+    height: 100%;
+    max-width: 100%;
+}
+
+.UpperNametag {
+
+    text-align: center;
+    font-size: 40px;
+    padding-top: 155px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.userinputlabel {
+
+    text-align: left;
+    padding-left: 95px;
+}
+
+.Usernametag {
+
+    font-size: 25px;
+    width: 10%;
+}
+
+.usernameinputfield {
+    padding-bottom: 10px;
+    font-size: 18px;
+
+}
+
+.usernameform-group {
+
+    width: 80%;
+}
+
+.btn btn-primary {
+
+    width: 95%;
+
+}
+
+.form-check-label {
+    font-size: 19px;
+}
+
+.form-check {
+    font-size: 19px;
+}
+
+.form-check-input {
+
+    height: 100px !important;
+}
