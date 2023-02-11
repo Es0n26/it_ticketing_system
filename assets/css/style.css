@@ -1,7 +1,7 @@
 .leftimage {
 
     height: 100VH;
-    padding: 1px;
+    padding: 0px;
 }
 
 .leftbackgroundimage {
@@ -14,7 +14,7 @@
 
     text-align: center;
     font-size: 40px;
-    padding-top: 155px;
+    padding-top: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -41,6 +41,10 @@
     width: 80%;
 }
 
+.username.form-group {
+    width: 80%;
+}
+
 .btn btn-primary {
 
     width: 95%;
@@ -55,7 +59,12 @@
     font-size: 19px;
 }
 
-.form-check-input {
+.login-container {
+    margin: 0;
+}
 
-    height: 100px !important;
+.companylogoimage {
+
+    height: 100px;
+    margin-bottom: 40px;
 }
